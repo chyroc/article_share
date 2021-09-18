@@ -35,8 +35,10 @@ jobs:
         body: |
           Article:
 
-          - article: [${{ steps.issue-info.outputs.title }}](${{ steps.issue-info.outputs.url }})
-          - desc: ${{ steps.issue-info.outputs.desc }}
+          文章: ${{ steps.issue-info.outputs.title }}
+          链接: ${{ steps.issue-info.outputs.url }}
+
+          ${{ steps.issue-info.outputs.desc }}
 
     - name: Create comment
       if: ${{ steps.issue-info.outputs.exist == '2' }}
@@ -44,7 +46,7 @@ jobs:
       with:
         issue-number: ${{ steps.issue-info.outputs.issue_number }}
         body: |
-          exist, skip.
+          已存在，跳过并关闭。
 
     - name: Commit and Push
       if: ${{ steps.issue-info.outputs.update == '2' }}
@@ -52,11 +54,11 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         git add --all
-        git commit -am "Add article ${{ github.event.issue.title }}"
+        git commit -am "Add ${{ github.event.issue.title }}"
         git push
 
     - name: Close Issue
       uses: peter-evans/close-issue@v1
       with:
         comment: |
-          Auto-closing this issue.
+          已提交，关闭。

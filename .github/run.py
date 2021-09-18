@@ -63,9 +63,9 @@ def update_data(title, url, desc):
 
     readme = """# article_share
 
-    | Date |  Article   | Desc  |
-    | ---- |  ----  | ----  |
-    """
+| Date |  Article   | Desc  |
+| ---- |  ----  | ----  |
+"""
 
     for data in datas:
         date, title, url, desc = data["date"], data["title"], data["url"], data["desc"]
