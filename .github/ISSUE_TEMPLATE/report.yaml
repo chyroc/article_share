@@ -20,6 +20,6 @@ body:
     attributes:
       label: Desc
       description: Recommended reason | 推荐理由
-      placeholder: Tell us what you see!
+      placeholder: Tell us what your reason
     validations:
       required: true
