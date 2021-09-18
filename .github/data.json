@@ -1,6 +1,12 @@
 [
     {
         "date": "2021-09-18",
+        "title": "sync.mutex \u6e90\u4ee3\u7801\u5206\u6790",
+        "url": "https://colobu.com/2018/12/18/dive-into-sync-mutex/",
+        "desc": "go \u4e2d\u7684 mutex \u9501\u7684\u8be6\u7ec6\u5b9e\u73b0\uff0c\u5305\u62ec cas \u548c\u9501\u7ade\u4e89"
+    },
+    {
+        "date": "2021-09-18",
         "title": "Overview - Gui with Gio",
         "url": "https://jonegil.github.io/gui-with-gio/",
         "desc": "\u4f7f\u7528 gio \u5236\u4f5c gui"
