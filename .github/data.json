@@ -1,6 +1,12 @@
 [
     {
         "date": "2021-09-18",
+        "title": "Overview - Gui with Gio",
+        "url": "https://jonegil.github.io/gui-with-gio/",
+        "desc": "\u4f7f\u7528 gio \u5236\u4f5c gui"
+    },
+    {
+        "date": "2021-09-18",
         "title": "Package Python Projects the Proper Way with Poetry",
         "url": "https://hackersandslackers.com/python-poetry-package-manager/",
         "desc": "2021\u5e74\uff0c\u5e94\u8be5\u7528poetry\u7ba1\u7406python\u9879\u76ee\u7684\u4f9d\u8d56\u548c\u6253\u5305\u9879\u76ee(\u629b\u5f03setup.py\uff0crequirements.txt\uff0cpipfile\u7b49)"
