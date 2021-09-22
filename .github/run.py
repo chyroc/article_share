@@ -18,7 +18,11 @@ def parse_info(issue_body, issue_number):
     url = url.strip()
     desc = desc.strip()
 
-    r = requests.get(url)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36",
+    }
+    r = requests.get(url, headers=headers)
+    print(r.url, r.text, r.status_code)
     soup = BeautifulSoup(r.text)
     title = soup.title.string
 
@@ -96,5 +100,5 @@ def main():
     print(f"::set-output name=update::2")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -26,6 +26,7 @@ jobs:
         ISSUE: ${{toJson(github.event.issue)}}
       run: |
         ISSUE=$(echo $ISSUE | base64 --wrap=0)
+        echo $ISSUE
         python .github/run.py $ISSUE
 
     - name: Create comment
