@@ -1,6 +1,12 @@
 [
     {
         "date": "2021-09-22",
+        "title": "ClickHouse \u5ba3\u5e03\u72ec\u7acb\u6210\u7acb\u516c\u53f8\uff0c\u9996\u8f6e\u83b7 3 \u4ebf\u878d\u8d44-InfoQ",
+        "url": "https://www.infoq.cn/article/L15P1O5PDwNwZa1rZI7U",
+        "desc": "ClickHouse \u5ba3\u5e03\u6210\u7acb\u72ec\u7acb\u516c\u53f8\uff0c\u6210\u529f\u7684\u5f00\u6e90\u7684\u7ec8\u9014\u662f\u5426\u5373\u662f\u72ec\u7acb\u516c\u53f8"
+    },
+    {
+        "date": "2021-09-22",
         "title": "HackerNews Readings",
         "url": "https://hacker-recommended-books.vercel.app/",
         "desc": "\u4f7f\u7528 NLP \u548c\u6df1\u5ea6\u5b66\u4e60\u5728 Hacker News \u627e\u51fa\u6765\u7684 40000 \u672c\u63a8\u8350\u4e66\u7c4d"
