@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-09-22",
+        "title": "HackerNews Readings",
+        "url": "https://hacker-recommended-books.vercel.app/",
+        "desc": "\u4f7f\u7528 NLP \u548c\u6df1\u5ea6\u5b66\u4e60\u5728 Hacker News \u627e\u51fa\u6765\u7684 40000 \u672c\u63a8\u8350\u4e66\u7c4d"
+    },
+    {
         "date": "2021-09-18",
         "title": "GitHub - joelparkerhenderson/monorepo-vs-polyrepo: Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)",
         "url": "https://github.com/joelparkerhenderson/monorepo-vs-polyrepo",

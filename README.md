@@ -2,6 +2,7 @@
 
 | Date |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-09-22 | [HackerNews Readings](https://hacker-recommended-books.vercel.app/)  | 使用 NLP 和深度学习在 Hacker News 找出来的 40000 本推荐书籍 |
 | 2021-09-18 | [GitHub - joelparkerhenderson/monorepo-vs-polyrepo: Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo)  | monorepo 和 polyrepo 两种组织项目的方式 |
 | 2021-09-18 | [sync.mutex 源代码分析](https://colobu.com/2018/12/18/dive-into-sync-mutex/)  | go 中的 mutex 锁的详细实现，包括 cas 和锁竞争 |
 | 2021-09-18 | [Overview - Gui with Gio](https://jonegil.github.io/gui-with-gio/)  | 使用 gio 制作 gui |
