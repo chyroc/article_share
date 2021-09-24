@@ -2,6 +2,7 @@
 
 | Date |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-09-24 | [GitHub - kardianos/service: Run go programs as a service on major platforms.](https://github.com/kardianos/service)  | 跨平台守护进程注册 |
 | 2021-09-22 | [10 个角度分析软件工程师应该知道的 100 件事-InfoQ](https://www.infoq.cn/article/YTcVJ1qZ595B7CwpVfyK)  | rt |
 | 2021-09-22 | [ClickHouse 宣布独立成立公司，首轮获 3 亿融资-InfoQ](https://www.infoq.cn/article/L15P1O5PDwNwZa1rZI7U)  | ClickHouse 宣布成立独立公司，成功的开源的终途是否即是独立公司 |
 | 2021-09-22 | [HackerNews Readings](https://hacker-recommended-books.vercel.app/)  | 使用 NLP 和深度学习在 Hacker News 找出来的 40000 本推荐书籍 |
