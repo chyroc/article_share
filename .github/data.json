@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-09-26",
+        "title": "GitHub - xakep666/unusual_generics: Collection of unusual generics usecases in Go",
+        "url": "https://github.com/xakep666/unusual_generics",
+        "desc": "Go Unusual Generics"
+    },
+    {
         "date": "2021-09-24",
         "title": "GitHub - kardianos/service: Run go programs as a service on major platforms.",
         "url": "https://github.com/kardianos/service",
