@@ -2,6 +2,7 @@
 
 | Date |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-09-27 | [GitHub - AhmadWaleed/chore: An Elegant and simple tool for executing common tasks on remote servers.](https://github.com/AhmadWaleed/chore)  | 一个 Go 写的远程命令执行器，可以用于部署服务 |
 | 2021-09-27 | [GitHub - tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex)  | 使用 ZSH 插件在命令行中启用 OpenAI's powerful Codex AI 能力 |
 | 2021-09-26 | [GitHub - xakep666/unusual_generics: Collection of unusual generics usecases in Go](https://github.com/xakep666/unusual_generics)  | Go Unusual Generics |
 | 2021-09-24 | [GitHub - kardianos/service: Run go programs as a service on major platforms.](https://github.com/kardianos/service)  | 跨平台守护进程注册 |
