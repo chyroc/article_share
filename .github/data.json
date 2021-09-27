@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-09-27",
+        "title": "GitHub - tom-doerr/zsh_codex",
+        "url": "https://github.com/tom-doerr/zsh_codex",
+        "desc": "\u4f7f\u7528 ZSH \u63d2\u4ef6\u5728\u547d\u4ee4\u884c\u4e2d\u542f\u7528 OpenAI's powerful Codex AI \u80fd\u529b"
+    },
+    {
         "date": "2021-09-26",
         "title": "GitHub - xakep666/unusual_generics: Collection of unusual generics usecases in Go",
         "url": "https://github.com/xakep666/unusual_generics",
