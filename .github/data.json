@@ -1,6 +1,12 @@
 [
     {
         "date": "2021-09-28",
+        "title": "\u51c6\u5907\u5199\u4e00\u7cfb\u5217 SEO \u76f8\u5173\u7684\u6587\u7ae0\uff0c\u5148\u653e\u4e24\u7bc7\u5404\u4f4d\u77a7\u77a7 - V2EX",
+        "url": "https://www.v2ex.com/t/804977",
+        "desc": "V2ex\u4e0a\u5173\u4e8e SEO \u7684\u4e00\u7bc7\u6307\u5357\u6587\u7ae0"
+    },
+    {
+        "date": "2021-09-28",
         "title": "GitHub - RedisLabs/redisraft: A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.",
         "url": "https://github.com/RedisLabs/redisraft",
         "desc": "\u4e00\u4e2a\u5b9e\u73b0\u4e86 Raft \u5171\u8bc6\u7b97\u6cd5\u7684\u5f3a\u4e00\u81f4\u6027 Redis \u96c6\u7fa4\u65b9\u6848"
