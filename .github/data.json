@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-09-28",
+        "title": "GitHub - RedisLabs/redisraft: A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.",
+        "url": "https://github.com/RedisLabs/redisraft",
+        "desc": "\u4e00\u4e2a\u5b9e\u73b0\u4e86 Raft \u5171\u8bc6\u7b97\u6cd5\u7684\u5f3a\u4e00\u81f4\u6027 Redis \u96c6\u7fa4\u65b9\u6848"
+    },
+    {
         "date": "2021-09-27",
         "title": "GitHub - AhmadWaleed/chore: An Elegant and simple tool for executing common tasks on remote servers.",
         "url": "https://github.com/AhmadWaleed/chore",
