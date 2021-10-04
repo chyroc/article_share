@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-10-04",
+        "title": "\u8fd1\u51e0\u5e74\u6211\u5728\u804c\u573a\u8e29\u8fc7\u7684\u5751 - laike9m's blog",
+        "url": "https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/",
+        "desc": "\u7b14\u8005\u5206\u4eab\u5728 Google \u5de5\u4f5c\u8fc7\u7a0b\u4e2d\u7684\u4e00\u4e9b\u804c\u573a\u611f\u609f"
+    },
+    {
         "date": "2021-09-29",
         "title": "GitHub - containers/youki: A container runtime written in Rust",
         "url": "https://github.com/containers/youki",
