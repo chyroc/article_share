@@ -2,6 +2,7 @@
 
 | Date |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-08 | [How a DNS Server (Domain Name System) works. - YouTube](https://youtu.be/mpQZVYPuDGU)  | 6分钟视频讲述什么是dns，以及它是如何工作的 |
 | 2021-10-04 | [近几年我在职场踩过的坑 - laike9m's blog](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)  | 笔者分享在 Google 工作过程中的一些职场感悟 |
 | 2021-09-29 | [GitHub - containers/youki: A container runtime written in Rust](https://github.com/containers/youki)  | 一个用 rust 实现的容器运行时 |
 | 2021-09-28 | [准备写一系列 SEO 相关的文章，先放两篇各位瞧瞧 - V2EX](https://www.v2ex.com/t/804977)  | V2ex上关于 SEO 的一篇指南文章 |
