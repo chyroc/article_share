@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-09 | [GitHub - louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)  | 一款网站监控工具，支持生成 status 页面 |
 | 2021-10-09 | [Faster time parsing · Phil Pearl's Blog](https://philpearl.github.io/post/perf_time/)  | Go 中更快的时间解析 |
 | 2021-10-09 | [数字存储完全指南 01：储存设备的诞生与历史 - 少数派](https://sspai.com/post/68711)  | 存储介质的演变历史 |
 | 2021-10-09 | [Scott Meyers - CPU Caches and Why You care on Vimeo](https://vimeo.com/97337258)  | 讲述什么是CPU缓存，以及你为什么要关心它 |
