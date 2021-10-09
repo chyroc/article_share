@@ -2,6 +2,7 @@
 
 | Date |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-09 | [数字存储完全指南 01：储存设备的诞生与历史 - 少数派](https://sspai.com/post/68711)  | 存储介质的演变历史 |
 | 2021-10-09 | [Scott Meyers - CPU Caches and Why You care on Vimeo](https://vimeo.com/97337258)  | 讲述什么是CPU缓存，以及你为什么要关心它 |
 | 2021-10-08 | [How a DNS Server (Domain Name System) works. - YouTube](https://youtu.be/mpQZVYPuDGU)  | 6分钟视频讲述什么是dns，以及它是如何工作的 |
 | 2021-10-04 | [近几年我在职场踩过的坑 - laike9m's blog](https://laike9m.com/blog/jin-ji-nian-wo-zai-zhi-chang-cai-guo-de-keng,143/)  | 笔者分享在 Google 工作过程中的一些职场感悟 |
