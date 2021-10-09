@@ -16,9 +16,19 @@ jobs:
       with:
         python-version: 3.9
 
-    - name: Install Dep
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.17
+
+    - name: Install Python Dep
       run: |
         pip install beautifulsoup4 requests
+
+    - name: Install Go Dep
+      run: |
+        git clone https://github.com/chyroc/lark-send-msg-cli /tmp/lark-send-msg-cli
+        cd /tmp/lark-send-msg-cli && go build -o /tmp/lark-send-msg-cli-bin main.go
 
     - name: Get Issue Info
       id: issue-info
@@ -63,3 +73,11 @@ jobs:
       with:
         comment: |
           已提交，关闭。
+
+    - name: Send Message to Lark
+      if: ${{ steps.issue-info.outputs.exist != '2' }}
+      run: |
+        /tmp/lark-send-msg-cli-bin --timeout 10 --webhook $LARK_WEBHOOK --secret $LARK_SECRET --message "文章: ${{ steps.issue-info.outputs.title }}\n链接: ${{ steps.issue-info.outputs.url }}\n\n${{ steps.issue-info.outputs.desc }}" --wrap
+      env:
+        LARK_WEBHOOK: ${{ secrets.LARK_WEBHOOK }}
+        LARK_SECRET: ${{ secrets.LARK_SECRET }}

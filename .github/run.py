@@ -67,7 +67,7 @@ def update_data(title, url, desc):
 
     readme = """# article_share
 
-| Date |  Article   | Desc  |
+| Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
 """
 
