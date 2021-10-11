@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-11 | [Composite Requests in Salesforce Are a Great Idea - DEV Community](https://dev.to/johnjvester/composite-requests-in-salesforce-are-a-great-idea-17lj)  | 在 salesforce 中使用请求合并功能，可以有效减少请求时间 |
 | 2021-10-11 | [GitHub - goplus/gop: GoPlus - The Go+ language for engineering, STEM education, and data science](https://github.com/goplus/gop)  | 一个静态类型，完成兼容 go ，脚本语言风格的 Go+ 语言 |
 | 2021-10-09 | [GitHub - louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)  | 一款网站监控工具，支持生成 status 页面 |
 | 2021-10-09 | [Faster time parsing · Phil Pearl's Blog](https://philpearl.github.io/post/perf_time/)  | Go 中更快的时间解析 |

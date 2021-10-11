@@ -1,6 +1,12 @@
 [
     {
         "date": "2021-10-11",
+        "title": "Composite Requests in Salesforce Are a Great Idea - DEV Community",
+        "url": "https://dev.to/johnjvester/composite-requests-in-salesforce-are-a-great-idea-17lj",
+        "desc": "\u5728 salesforce \u4e2d\u4f7f\u7528\u8bf7\u6c42\u5408\u5e76\u529f\u80fd\uff0c\u53ef\u4ee5\u6709\u6548\u51cf\u5c11\u8bf7\u6c42\u65f6\u95f4"
+    },
+    {
+        "date": "2021-10-11",
         "title": "GitHub - goplus/gop: GoPlus - The Go+ language for engineering, STEM education, and data science",
         "url": "https://github.com/goplus/gop",
         "desc": "\u4e00\u4e2a\u9759\u6001\u7c7b\u578b\uff0c\u5b8c\u6210\u517c\u5bb9 go \uff0c\u811a\u672c\u8bed\u8a00\u98ce\u683c\u7684 Go+ \u8bed\u8a00"
