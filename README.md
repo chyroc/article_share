@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-12 | [Docker基础技术：Linux Namespace（上） | 酷 壳 - CoolShell](https://coolshell.cn/articles/17010.html)  | Linux Namespace技术 |
 | 2021-10-12 | [Twitch 收益排行榜](https://twitch.pages.dev/zh-CN/)  | 过去两年，在 twitch 上有近百位收入百万美元的UP主 |
 | 2021-10-12 | [GitHub - wader/ansisvg: Convert ANSI output to SVG](https://github.com/wader/ansisvg)  | 将ANSI转成SVG |
 | 2021-10-11 | [Composite Requests in Salesforce Are a Great Idea - DEV Community](https://dev.to/johnjvester/composite-requests-in-salesforce-are-a-great-idea-17lj)  | 在 salesforce 中使用请求合并功能，可以有效减少请求时间 |
