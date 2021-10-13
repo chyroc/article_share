@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-10-13",
+        "title": "\u7ed9\u535a\u5ba2\u6587\u7ae0\u81ea\u52a8\u751f\u6210\u5206\u4eab\u56fe - Yuanji's Blog",
+        "url": "https://blog.gimo.me/posts/auto-generating-cover-for-post/",
+        "desc": "\u81ea\u52a8\u751f\u6210\u5305\u542b\u6587\u7ae0\u4fe1\u606f\u7684\u56fe\u7247"
+    },
+    {
         "date": "2021-10-12",
         "title": "Docker\u57fa\u7840\u6280\u672f\uff1aLinux Namespace\uff08\u4e0a\uff09 | \u9177 \u58f3 - CoolShell",
         "url": "https://coolshell.cn/articles/17010.html",

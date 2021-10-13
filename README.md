@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-13 | [给博客文章自动生成分享图 - Yuanji's Blog](https://blog.gimo.me/posts/auto-generating-cover-for-post/)  | 自动生成包含文章信息的图片 |
 | 2021-10-12 | [Docker基础技术：Linux Namespace（上） | 酷 壳 - CoolShell](https://coolshell.cn/articles/17010.html)  | Linux Namespace技术 |
 | 2021-10-12 | [Twitch 收益排行榜](https://twitch.pages.dev/zh-CN/)  | 过去两年，在 twitch 上有近百位收入百万美元的UP主 |
 | 2021-10-12 | [GitHub - wader/ansisvg: Convert ANSI output to SVG](https://github.com/wader/ansisvg)  | 将ANSI转成SVG |
