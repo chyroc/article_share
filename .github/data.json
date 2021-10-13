@@ -1,6 +1,12 @@
 [
     {
         "date": "2021-10-13",
+        "title": "Universal macOS binaries with Go 1.16 - DEV Community",
+        "url": "https://dev.to/thewraven/universal-macos-binaries-with-go-1-16-3mm3",
+        "desc": "\u4f7f\u7528 lipo \u5de5\u5177\u521b\u5efa\u9002\u7528\u4e8e amd64 \u548c arm64 \u7684\u901a\u7528\u7684 go \u4e8c\u8fdb\u5236\u6587\u4ef6"
+    },
+    {
+        "date": "2021-10-13",
         "title": "\u7ed9\u535a\u5ba2\u6587\u7ae0\u81ea\u52a8\u751f\u6210\u5206\u4eab\u56fe - Yuanji's Blog",
         "url": "https://blog.gimo.me/posts/auto-generating-cover-for-post/",
         "desc": "\u81ea\u52a8\u751f\u6210\u5305\u542b\u6587\u7ae0\u4fe1\u606f\u7684\u56fe\u7247"
