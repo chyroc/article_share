@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-10-14",
+        "title": "How to improve your problem-solving (and analysis) skills - DEV Community",
+        "url": "https://dev.to/30mp/how-to-improve-your-problem-solving-and-analysis-skills-4mfi",
+        "desc": "\u5982\u4f55\u63d0\u9ad8\u5206\u6790\u95ee\u9898\u548c\u89e3\u51b3\u95ee\u9898\u7684\u6280\u80fd"
+    },
+    {
         "date": "2021-10-13",
         "title": "Universal macOS binaries with Go 1.16 - DEV Community",
         "url": "https://dev.to/thewraven/universal-macos-binaries-with-go-1-16-3mm3",
