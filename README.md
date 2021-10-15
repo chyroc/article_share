@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-15 | [Netflix实用API设计(上)](https://xie.infoq.cn/article/9177627e96925ef1bd53ee01c?utm_source=rss&utm_medium=article)  | 在pb中使用FieldMask实现选择字段功能 |
 | 2021-10-15 | [PLY (Python Lex-Yacc) — ply 4.0 documentation](https://ply.readthedocs.io/en/latest/ply.html)  | Python中Lex和Yacc的实现，挺有意思，不需要generate |
 | 2021-10-14 | [How to improve your problem-solving (and analysis) skills - DEV Community](https://dev.to/30mp/how-to-improve-your-problem-solving-and-analysis-skills-4mfi)  | 如何提高分析问题和解决问题的技能 |
 | 2021-10-13 | [Universal macOS binaries with Go 1.16 - DEV Community](https://dev.to/thewraven/universal-macos-binaries-with-go-1-16-3mm3)  | 使用 lipo 工具创建适用于 amd64 和 arm64 的通用的 go 二进制文件 |
