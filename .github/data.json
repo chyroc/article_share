@@ -1,5 +1,11 @@
 [
     {
+        "date": "2021-10-15",
+        "title": "PLY (Python Lex-Yacc) \u2014 ply 4.0 documentation",
+        "url": "https://ply.readthedocs.io/en/latest/ply.html",
+        "desc": "Python\u4e2dLex\u548cYacc\u7684\u5b9e\u73b0\uff0c\u633a\u6709\u610f\u601d\uff0c\u4e0d\u9700\u8981generate"
+    },
+    {
         "date": "2021-10-14",
         "title": "How to improve your problem-solving (and analysis) skills - DEV Community",
         "url": "https://dev.to/30mp/how-to-improve-your-problem-solving-and-analysis-skills-4mfi",
