@@ -2,6 +2,8 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2021-10-19 | [
+](https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw)  | 黄东旭结合 tidb 的例子讲软件的可观测性和可交互性 |
 | 2021-10-15 | [Netflix实用API设计(上)](https://xie.infoq.cn/article/9177627e96925ef1bd53ee01c?utm_source=rss&utm_medium=article)  | 在pb中使用FieldMask实现选择字段功能 |
 | 2021-10-15 | [PLY (Python Lex-Yacc) — ply 4.0 documentation](https://ply.readthedocs.io/en/latest/ply.html)  | Python中Lex和Yacc的实现，挺有意思，不需要generate |
 | 2021-10-14 | [How to improve your problem-solving (and analysis) skills - DEV Community](https://dev.to/30mp/how-to-improve-your-problem-solving-and-analysis-skills-4mfi)  | 如何提高分析问题和解决问题的技能 |
