@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2022-02-21 | [GitHub - nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh)  | 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
 | 2021-10-19 | [
 ](https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw)  | 黄东旭结合 tidb 的例子讲软件的可观测性和可交互性 |
 | 2021-10-15 | [Netflix实用API设计(上)](https://xie.infoq.cn/article/9177627e96925ef1bd53ee01c?utm_source=rss&utm_medium=article)  | 在pb中使用FieldMask实现选择字段功能 |
