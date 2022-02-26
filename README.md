@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2022-02-26 | [Golang Weekly Issue 401: February 25, 2022](https://golangweekly.com/issues/401)  | Golang Weekly 401 |
 | 2022-02-21 | [GitHub - nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh)  | 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
 | 2021-10-19 | [
 ](https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw)  | 黄东旭结合 tidb 的例子讲软件的可观测性和可交互性 |
