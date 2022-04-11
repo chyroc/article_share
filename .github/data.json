@@ -1,6 +1,12 @@
 [
     {
         "date": "2022-04-11",
+        "title": "[\u8bd1] NAT \u7a7f\u900f\u662f\u5982\u4f55\u5de5\u4f5c\u7684\uff1a\u6280\u672f\u539f\u7406\u53ca\u4f01\u4e1a\u7ea7\u5b9e\u8df5\uff08Tailscale, 2020\uff09",
+        "url": "http://arthurchiao.art/blog/how-nat-traversal-works-zh/",
+        "desc": "[\u8bd1] NAT \u7a7f\u900f\u662f\u5982\u4f55\u5de5\u4f5c\u7684\uff1a\u6280\u672f\u539f\u7406\u53ca\u4f01\u4e1a\u7ea7\u5b9e\u8df5\uff08Tailscale, 2020\uff09"
+    },
+    {
+        "date": "2022-04-11",
         "title": "\u7ec8\u7aef\u7684\u56f0\u5883\u4e0e Warp \u7684\u91ce\u5fc3",
         "url": "https://2d2d.io/s2/warp/",
         "desc": "\u7ec8\u7aef\u7684\u56f0\u5883\u4e0e Warp \u7684\u91ce\u5fc3"
