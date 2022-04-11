@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2022-04-11 | [终端的困境与 Warp 的野心](https://2d2d.io/s2/warp/)  | 终端的困境与 Warp 的野心 |
 | 2022-02-26 | [Golang Weekly Issue 401: February 25, 2022](https://golangweekly.com/issues/401)  | Golang Weekly 401 |
 | 2022-02-21 | [GitHub - nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh)  | 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
 | 2021-10-19 | [
