@@ -1,5 +1,11 @@
 [
     {
+        "date": "2022-04-15",
+        "title": "How Telegram Messenger circumvents Google Translate's API | DanPetrov",
+        "url": "https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html",
+        "desc": "\u7ed5\u8fc7\u9650\u5236\u4f7f\u7528 Google \u7ffb\u8bd1\u63a5\u53e3"
+    },
+    {
         "date": "2022-04-11",
         "title": "[\u8bd1] NAT \u7a7f\u900f\u662f\u5982\u4f55\u5de5\u4f5c\u7684\uff1a\u6280\u672f\u539f\u7406\u53ca\u4f01\u4e1a\u7ea7\u5b9e\u8df5\uff08Tailscale, 2020\uff09",
         "url": "http://arthurchiao.art/blog/how-nat-traversal-works-zh/",
