@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2022-05-05 | [How To Avoid Common Mistakes In Go Programming?](https://www.bacancytechnology.com/blog/common-mistakes-in-go)  | 使用go的一些易错问题 |
 | 2022-04-15 | [How Telegram Messenger circumvents Google Translate's API | DanPetrov](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)  | 绕过限制使用 Google 翻译接口 |
 | 2022-04-11 | [[译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020）](http://arthurchiao.art/blog/how-nat-traversal-works-zh/)  | [译] NAT 穿透是如何工作的：技术原理及企业级实践（Tailscale, 2020） |
 | 2022-04-11 | [终端的困境与 Warp 的野心](https://2d2d.io/s2/warp/)  | 终端的困境与 Warp 的野心 |

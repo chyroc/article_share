@@ -1,5 +1,11 @@
 [
     {
+        "date": "2022-05-05",
+        "title": "How To Avoid Common Mistakes In Go Programming?",
+        "url": "https://www.bacancytechnology.com/blog/common-mistakes-in-go",
+        "desc": "\u4f7f\u7528go\u7684\u4e00\u4e9b\u6613\u9519\u95ee\u9898"
+    },
+    {
         "date": "2022-04-15",
         "title": "How Telegram Messenger circumvents Google Translate's API | DanPetrov",
         "url": "https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html",
