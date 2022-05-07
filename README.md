@@ -10,8 +10,7 @@
 | 2022-04-11 | [终端的困境与 Warp 的野心](https://2d2d.io/s2/warp/)  | 终端的困境与 Warp 的野心 |
 | 2022-02-26 | [Golang Weekly Issue 401: February 25, 2022](https://golangweekly.com/issues/401)  | Golang Weekly 401 |
 | 2022-02-21 | [GitHub - nusr/hacker-laws-zh: 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)](https://github.com/nusr/hacker-laws-zh)  | 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
-| 2021-10-19 | [
-](https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw)  | 黄东旭结合 tidb 的例子讲软件的可观测性和可交互性 |
+| 2021-10-19 | [做出让人爱不释手的基础软件：可观测性和可交互性](https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw)  | 黄东旭结合 tidb 的例子讲软件的可观测性和可交互性 |
 | 2021-10-15 | [Netflix实用API设计(上)](https://xie.infoq.cn/article/9177627e96925ef1bd53ee01c?utm_source=rss&utm_medium=article)  | 在pb中使用FieldMask实现选择字段功能 |
 | 2021-10-15 | [PLY (Python Lex-Yacc) — ply 4.0 documentation](https://ply.readthedocs.io/en/latest/ply.html)  | Python中Lex和Yacc的实现，挺有意思，不需要generate |
 | 2021-10-14 | [How to improve your problem-solving (and analysis) skills - DEV Community](https://dev.to/30mp/how-to-improve-your-problem-solving-and-analysis-skills-4mfi)  | 如何提高分析问题和解决问题的技能 |
