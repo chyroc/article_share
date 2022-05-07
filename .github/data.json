@@ -1,6 +1,12 @@
 [
     {
         "date": "2022-05-07",
+        "title": "GitHub - rutikwankhade/CoverView: \ud83d\udee0 Create awesome cover images for your blog posts quickly.",
+        "url": "https://github.com/rutikwankhade/CoverView",
+        "desc": "\u5feb\u901f\u521b\u5efa\u770b\u8d77\u6765\u8fd8\u53ef\u4ee5\u7684\u6587\u7ae0\u5c01\u9762\u56fe"
+    },
+    {
+        "date": "2022-05-07",
         "title": "Golang Weekly Issue 410: May 6, 2022",
         "url": "https://golangweekly.com/issues/410",
         "desc": "go\u5468\u520a-410\u671f"

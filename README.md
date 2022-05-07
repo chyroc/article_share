@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2022-05-07 | [GitHub - rutikwankhade/CoverView: 🛠 Create awesome cover images for your blog posts quickly.](https://github.com/rutikwankhade/CoverView)  | 快速创建看起来还可以的文章封面图 |
 | 2022-05-07 | [Golang Weekly Issue 410: May 6, 2022](https://golangweekly.com/issues/410)  | go周刊-410期 |
 | 2022-05-05 | [How To Avoid Common Mistakes In Go Programming?](https://www.bacancytechnology.com/blog/common-mistakes-in-go)  | 使用go的一些易错问题 |
 | 2022-04-15 | [How Telegram Messenger circumvents Google Translate's API | DanPetrov](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)  | 绕过限制使用 Google 翻译接口 |
