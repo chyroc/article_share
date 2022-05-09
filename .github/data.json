@@ -1,6 +1,12 @@
 [
     {
         "date": "2022-05-09",
+        "title": "GitHub - kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+        "url": "https://github.com/kopia/kopia",
+        "desc": "\u5177\u6709\u8de8\u5e73\u53f0\u3001\u589e\u91cf\u5907\u4efd\u3001\u5ba2\u6237\u7aef\u7aef\u5230\u7aef\u52a0\u5bc6\u3001\u538b\u7f29\u548c\u91cd\u590d\u6570\u636e\u5220\u9664\u7b49\u529f\u80fd\u7684\u5907\u4efd\u5de5\u5177"
+    },
+    {
+        "date": "2022-05-09",
         "title": "\u00e6\u00a0\u0087\u00e5\u0087\u0086\u00e5\u008c\u0096\u00e6\u0080\u009d\u00e6\u0083\u00b3\u00e5\u008f\u008a\u00e7\u00bb\u0084\u00e8\u00a3\u0085\u00e5\u00bc\u008f\u00e6\u009e\u00b6\u00e6\u009e\u0084\u00e5\u009c\u00a8\u00e5\u0090\u008e\u00e7\u00ab\u00afBFF\u00e4\u00b8\u00ad\u00e7\u009a\u0084\u00e5\u00ae\u009e\u00e8\u00b7\u00b5 - \u00e7\u00be\u008e\u00e5\u009b\u00a2\u00e6\u008a\u0080\u00e6\u009c\u00af\u00e5\u009b\u00a2\u00e9\u0098\u009f",
         "url": "https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html",
         "desc": "\u590d\u6742\u4e1a\u52a1\u4e0b\uff0c\u4ea7\u54c1\u548c\u6280\u672f\u6807\u51c6\u5316\uff0c\u7ec4\u88c5\u5f0f\u5904\u7406\u6570\u636e"
