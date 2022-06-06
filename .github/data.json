@@ -1,5 +1,11 @@
 [
     {
+        "date": "2022-06-06",
+        "title": "GitHub - zinclabs/zinc: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+        "url": "https://github.com/zinclabs/zinc",
+        "desc": "go\u5199\u7684\u8f7b\u91cf\u7ea7es\u66ff\u4ee3\u54c1"
+    },
+    {
         "date": "2022-05-09",
         "title": "GitHub - kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
         "url": "https://github.com/kopia/kopia",
