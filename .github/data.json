@@ -1,6 +1,12 @@
 [
     {
         "date": "2022-06-06",
+        "title": "How fast are Linux pipes anyway?",
+        "url": "https://mazzo.li/posts/fast-pipes.html",
+        "desc": "Linux \u7ba1\u9053\u6709\u591a\u5feb"
+    },
+    {
+        "date": "2022-06-06",
         "title": "GitHub - zinclabs/zinc: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
         "url": "https://github.com/zinclabs/zinc",
         "desc": "go\u5199\u7684\u8f7b\u91cf\u7ea7es\u66ff\u4ee3\u54c1"

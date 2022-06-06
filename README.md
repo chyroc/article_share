@@ -2,6 +2,7 @@
 
 | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  Article   | Desc  |
 | ---- |  ----  | ----  |
+| 2022-06-06 | [How fast are Linux pipes anyway?](https://mazzo.li/posts/fast-pipes.html)  | Linux 管道有多快 |
 | 2022-06-06 | [GitHub - zinclabs/zinc: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.](https://github.com/zinclabs/zinc)  | go写的轻量级es替代品 |
 | 2022-05-09 | [GitHub - kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.](https://github.com/kopia/kopia)  | 具有跨平台、增量备份、客户端端到端加密、压缩和重复数据删除等功能的备份工具 |
 | 2022-05-09 | [æ ååææ³åç»è£å¼æ¶æå¨åç«¯BFFä¸­çå®è·µ - ç¾å¢ææ¯å¢é](https://tech.meituan.com/2022/04/28/composable-architecture-in-bff.html)  | 复杂业务下，产品和技术标准化，组装式处理数据 |
